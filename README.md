@@ -1,4 +1,6 @@
 # MyTakeOnJavaScript30
 
 Doing the exercices of JavaScript30 course (https://javascript30.com/): </br>
-Day 1: a JavaScript Street Piano (CSS piano from https://codepen.io/zastrow/pen/oDBki)
+Day 1: a JavaScript Street Piano (CSS piano from https://codepen.io/zastrow/pen/oDBki)</br>
+Day 2: CSS/JS clock (transition issue when hands hit 12 to be fixed)</br>
+
